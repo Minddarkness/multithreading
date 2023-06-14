@@ -1,0 +1,15 @@
+C:\Programms\Sk\CSharp\HW_15\HW_15\bin\Debug\net7.0\HW_15.exe
+C:\Programms\Sk\CSharp\HW_15\HW_15\bin\Debug\net7.0\HW_15.deps.json
+C:\Programms\Sk\CSharp\HW_15\HW_15\bin\Debug\net7.0\HW_15.runtimeconfig.json
+C:\Programms\Sk\CSharp\HW_15\HW_15\bin\Debug\net7.0\HW_15.dll
+C:\Programms\Sk\CSharp\HW_15\HW_15\bin\Debug\net7.0\HW_15.pdb
+C:\Programms\Sk\CSharp\HW_15\HW_15\obj\Debug\net7.0\HW_15.csproj.AssemblyReference.cache
+C:\Programms\Sk\CSharp\HW_15\HW_15\obj\Debug\net7.0\HW_15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programms\Sk\CSharp\HW_15\HW_15\obj\Debug\net7.0\HW_15.AssemblyInfoInputs.cache
+C:\Programms\Sk\CSharp\HW_15\HW_15\obj\Debug\net7.0\HW_15.AssemblyInfo.cs
+C:\Programms\Sk\CSharp\HW_15\HW_15\obj\Debug\net7.0\HW_15.csproj.CoreCompileInputs.cache
+C:\Programms\Sk\CSharp\HW_15\HW_15\obj\Debug\net7.0\HW_15.dll
+C:\Programms\Sk\CSharp\HW_15\HW_15\obj\Debug\net7.0\refint\HW_15.dll
+C:\Programms\Sk\CSharp\HW_15\HW_15\obj\Debug\net7.0\HW_15.pdb
+C:\Programms\Sk\CSharp\HW_15\HW_15\obj\Debug\net7.0\HW_15.genruntimeconfig.cache
+C:\Programms\Sk\CSharp\HW_15\HW_15\obj\Debug\net7.0\ref\HW_15.dll
