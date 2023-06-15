@@ -1,12 +1,10 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
 using HW_15;
-using static System.Console;
 
 ThreadOutput threadOutput = new ThreadOutput();
 
-WriteLine("Before thread");
-
 threadOutput.WriteInThread("Hi", 2000);
+threadOutput.WriteInThread("Hi here", 100);
+threadOutput.WriteInThread("Hello", 1000);
 
-WriteLine("After thread");
